@@ -2,7 +2,7 @@
 >
 > 仅供个人学习参考，请勿用于其他行为
 
-# <div align=center width="40"> 国科大 生物信息学期末考试题及参考答案</div>
+# <div align=center width="40"> 国科大 生物信息学期末考试题及参考答案（个人复习用）</div>
 # 1. 什么是生物信息学？如何理解生物信息学的含义？
 > 1. 英文解释：Genome informatics is a scientific discipline that encompasses all aspects of genome information acquisition, processing, storage, distribution, analysis, and interpretation.<br>它是一个学科领域，包含着基因组信息的获取、处理、存储、分配 、分析和解释的所有方面。
 > 3. 生物信息学是把基因组DNA序列信息分析作为源头，破译隐藏在DNA序列中的遗传语言，特别是非编码区的实质；同时在发现了新基因信息之后进行蛋白质空间结构模拟和预测。
