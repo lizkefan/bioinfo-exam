@@ -42,7 +42,7 @@
 
 # 4. B:什么是系统生物学？系统生物学对生物功能实现的理解有何本质变化？【补：系统生物学的研究思路是什么？】
 
-# 5. 什么是contig和scaffold，L50和N50是什么?
+# 5. 什么是contig和scaffold，L50和N50是什么?[网页答案](https://www.jianshu.com/p/117441ac6eb8)
 > 1. contig：A contig (from contiguous) is a set of overlapping DNA segments that together represent a consensus region of DNA.
 >    
 >    重叠群（来自连续的）是一组重叠的、完整连续的DNA片断或Reads，中间没有缺失序列（gap）。
