@@ -45,7 +45,7 @@
 # 5. 什么是contig和scaffold，L50和N50是什么?
 > 1. contig：A contig (from contiguous) is a set of overlapping DNA segments that together represent a consensus region of DNA.
 >    
->    重叠群（来自连续的）是一组重叠的、完整连续的DNA片断
+>    重叠群（来自连续的）是一组重叠的、完整连续的DNA片断或Reads，中间没有缺失序列（gap）。
 >    
 > 2. scaffold：A scaffold is a portion of the genome sequence reconstructed from end-sequenced whole-genome shotgun clones. Scaffolds are composed of contigs and gaps.
 > 
