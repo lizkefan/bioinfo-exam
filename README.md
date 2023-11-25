@@ -38,9 +38,21 @@
 >  - 稳定性检验（分支的确定）。只有稳定的分支才有意义，为了检验构建好的进化树的可靠性，通常构建过程要随机成百上千次，大概率（70%以上）出现的分支点才是可靠的，通用的方法使用 Bootstrap算法，相应的软件已包括在构建系统进化树所用的软件包当中。
 
 
-# 4. 什么是SNP？为什么SNP的研究是重要的？举出2~3个SNP相关的网站【补：SNP研究有哪些优点？】
+# 4. A:什么是SNP？为什么SNP的研究是重要的？举出2~3个SNP相关的网站【补：SNP研究有哪些优点？】
 
-# 5. 什么是系统生物学？系统生物学对生物功能实现的理解有何本质变化？【补：系统生物学的研究思路是什么？】
+# 4. B:什么是系统生物学？系统生物学对生物功能实现的理解有何本质变化？【补：系统生物学的研究思路是什么？】
+
+# 5. 什么是contig和scaffold，L50和N50是什么?
+> 1. contig：A contig (from contiguous) is a set of overlapping DNA segments that together represent a consensus region of DNA.
+>    重叠群（来自连续的）是一组重叠的、完整连续的DNA片断
+>    
+> 2. scaffold：A scaffold is a portion of the genome sequence reconstructed from end-sequenced whole-genome shotgun clones. Scaffolds are composed of contigs and gaps.
+>    支架是从末端测序的全基因组鸟枪克隆重建的基因组序列的一部分。脚手架由重叠部分和间隙组成。
+>
+> 3. N50把contig或scaffold按照从大到小的顺序排列，长度达到基因组大小（所有contig或scaffold的长度）的50%时，那条contig/scaffold的长度，即为contig/scaffold N50. N50越大，说明基因组组装的质量越高。
+> 
+> 4. L50
+>    长度总和产生N50的contig/scaffold的数量
 
 # 参考链接
 1. [【国科大——期末复习】生物信息学(陈润生)_期末考试答案（持续更新~）](https://blog.csdn.net/m0_61164319/article/details/133918588?spm=1001.2014.3001.5502)
