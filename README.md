@@ -58,5 +58,7 @@
 >
 > [网页答案](https://www.jianshu.com/p/117441ac6eb8)
 
+# 3. 大数据分析需要注意的问题
+![大数据分析]https://img-blog.csdnimg.cn/direct/11d8c431f8014c31afc8ea57db2bf670.jpeg
 # 参考链接
 1. [【国科大——期末复习】生物信息学(陈润生)_期末考试答案（持续更新~）](https://blog.csdn.net/m0_61164319/article/details/133918588?spm=1001.2014.3001.5502)
