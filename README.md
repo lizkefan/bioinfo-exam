@@ -73,6 +73,8 @@
 > 3. Allele Frequencies
 >
 > 4. Cohort(队列)：
+>
+> 5. Missense mutation & Nonsense mutation（终止密码子的出现）
 
 # 参考链接
 1. [【国科大——期末复习】生物信息学(陈润生)_期末考试答案（持续更新~）](https://blog.csdn.net/m0_61164319/article/details/133918588?spm=1001.2014.3001.5502)
