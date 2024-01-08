@@ -92,7 +92,6 @@ Nearest Neighbor Model for Free Energy of a Sample Hairpin Loop：
 > 5. Missense mutation & Nonsense mutation（终止密码子的出现）
 A point mutation in which a single nucleotide change results in a codonthat codes for a different amino acid. 一种点突变，其中单个核苷酸的变化导致编码不同氨基酸的密码子的改变。会改变蛋白质序列，一般发生在遗传密码子的第一位或第二位。
 ![https://img-blog.csdnimg.cn/direct/de5706ce324f4e1d984b4918bd8df54f.png](https://img-blog.csdnimg.cn/direct/de5706ce324f4e1d984b4918bd8df54f.png)
-
 A pointmutation that results in a stop codon (nonsense codon) in a transcribed mRNA,which encodes incomplete and usually nonfunctional protein product.在转录的mRNA中引入终止密码子的点突变。会导致翻译提前终止，得到不完整、无生物功能的蛋白质。更易造成疾病。
 ![https://img-blog.csdnimg.cn/direct/0b93511375b749dba1b691f07dcda8bc.png](https://img-blog.csdnimg.cn/direct/0b93511375b749dba1b691f07dcda8bc.png)
 
