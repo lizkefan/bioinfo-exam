@@ -62,19 +62,39 @@
 ![大数据分析](https://img-blog.csdnimg.cn/direct/11d8c431f8014c31afc8ea57db2bf670.jpeg)
 
 # 7. 真阳性，真阴性，假阳性，假阴性，灵敏度，特异性
-
+True Positive （真阳性, TP）被模型预测为正的正样本；可以称作判断为真的正确率
+True Negative（真阴性, TN）被模型预测为负的负样本 ；可以称作判断为假的正确率
+False Positive （假阳性, FP）被模型预测为正的负样本；可以称作误报率
+False Negative（假阴性, FN）被模型预测为负的正样本；可以称作漏报率
+灵敏度Sensitivity：
+                TPR = TP /（TP + FN）
+                正样本预测结果数 / 正样本实际数
+特异性Specificity：
+                TNR = TN /（TN + FP）
+                负样本预测结果数 / 负样本实际数
 # 8. [计算题] Nearest Neighbor Model for Watson-Crick Base Pairs
+**Watson-Crick 碱基对的最近邻模型，描述了 DNA 中碱基对之间的相互作用力和稳定性**
 
+Nearest Neighbor Model for Free Energy of a Sample Hairpin Loop：
+
+**通过计算样品发夹环中碱基对的相互作用能量，可以评估该环状结构的稳定性和热力学特性**
+![https://img-blog.csdnimg.cn/direct/8093797858be4b26ad39aff1dadaf137.png](https://img-blog.csdnimg.cn/direct/8093797858be4b26ad39aff1dadaf137.png)
+![https://img-blog.csdnimg.cn/direct/651d803a0129497cbd0ab2f076516b69.png](https://img-blog.csdnimg.cn/direct/651d803a0129497cbd0ab2f076516b69.png)
 # 9. [名词解释]
-> 1. Genotype:
+> 1. Genotype:thegenetic constitution of the organism.生物体的遗传构成。
 >
-> 2. Phenotype:
+> 2. Phenotype:thecomposite of an organism's observable characteristics or traits.生物体可观察到的特点或特征的总和。
 >
-> 3. Allele Frequencies
+> 3. Allele Frequencies：特定等位基因/所有等位基因。每个个体的两条染色体都要考虑。【2*纯合子+杂合子】
 >
-> 4. Cohort(队列)：
+> 4. Cohort(队列)：a groupof people who share a common characteristic or experience within a definedperiod (e.g., are born, are exposed to a drug or vaccine or pollutant, orundergo a certain medical procedure). 在一定时期内具有共同特征或经历的一个群体。（例如，出生日期，使用同种药物、接种同种疫苗或接受特定的医学治疗）。
 >
 > 5. Missense mutation & Nonsense mutation（终止密码子的出现）
+A point mutation in which a single nucleotide change results in a codonthat codes for a different amino acid. 一种点突变，其中单个核苷酸的变化导致编码不同氨基酸的密码子的改变。会改变蛋白质序列，一般发生在遗传密码子的第一位或第二位。
+![https://img-blog.csdnimg.cn/direct/de5706ce324f4e1d984b4918bd8df54f.png](https://img-blog.csdnimg.cn/direct/de5706ce324f4e1d984b4918bd8df54f.png)
+
+A pointmutation that results in a stop codon (nonsense codon) in a transcribed mRNA,which encodes incomplete and usually nonfunctional protein product.在转录的mRNA中引入终止密码子的点突变。会导致翻译提前终止，得到不完整、无生物功能的蛋白质。更易造成疾病。
+![https://img-blog.csdnimg.cn/direct/0b93511375b749dba1b691f07dcda8bc.png](https://img-blog.csdnimg.cn/direct/0b93511375b749dba1b691f07dcda8bc.png)
 
 # 参考链接
 1. [【国科大——期末复习】生物信息学(陈润生)_期末考试答案（持续更新~）](https://blog.csdn.net/m0_61164319/article/details/133918588?spm=1001.2014.3001.5502)
